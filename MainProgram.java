@@ -1,3 +1,4 @@
+package SWE_hw;
 import java.util.Scanner;
 
 public class MainProgram {
